@@ -62,7 +62,7 @@ $.extend(SharkGame, {
 
     credits: "<p>This game was originally created for my dear friend Sach.<br/>" +
     "<span class='smallDesc'>(Rest in peace sach)</span></p>" +
-    "<p>It was made by <a href='/'>3kh0</a> who has a cool website<br/>" +
+    "<p>It was made by <a href='/'>Techa</a> who has a cool website<br/>" +
     "<span class='smallDesc'>Thank you for playing</span></p>",
 
 
