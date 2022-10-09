@@ -1001,7 +1001,7 @@ SharkGame.FunFacts = [
 ];
 
 SharkGame.Changelog = {
-    "0.8 - Name Pending (2015/??/??)" :[
+    "0.8 - Name Pending (2022/01/14)" :[
         "Went back over the git repo history and added dates to changelog histories. No hiding my having dropped this for over half a year now! <span class='medDesc'>(it has been a while)</span>"
     ],
     "0.71 (2014/12/20)": [
